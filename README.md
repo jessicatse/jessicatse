@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi, I'm Jess!
+I'm an aspiring data scientist with a passion for problem solving and people. 
+[LinkedIn][www.linkedin.com/in/j-tse]
+
+
 
 <!--
 **jessicatse/jessicatse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
