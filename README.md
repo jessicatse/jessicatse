@@ -1,7 +1,7 @@
 Hi, I'm Jess!
 
 
-I'm an aspiring data scientist with a passion for problem solving and people. 
+I'm an aspiring data engineer with a passion for problem solving and people. 
 
 
 [LinkedIn](https://www.linkedin.com/in/j-tse)
